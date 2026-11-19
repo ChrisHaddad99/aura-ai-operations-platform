@@ -32,7 +32,7 @@ A milestone is considered `DONE` when all its required tasks and deliverables ar
 
 | Task | Description | Status |
 |---|---|---|
-| TASK 01 | Create Project Charter | IN PROGRESS |
+| TASK 01 | Create Project Charter | DONE |
 | TASK 02 | Define Functional Requirements | NOT STARTED |
 | TASK 03 | Define Non-Functional Requirements | NOT STARTED |
 | TASK 04 | Define Use Cases and User Stories | NOT STARTED |
