@@ -36,7 +36,7 @@ A milestone is considered `DONE` when all its required tasks and deliverables ar
 | TASK 02 | Define Functional Requirements | DONE |
 | TASK 03 | Define Non-Functional Requirements | DONE |
 | TASK 04 | Define Use Cases and User Stories | DONE |
-| TASK 05 | Define Acceptance Criteria and Definition of Done | NOT STARTED |
+| TASK 05 | Define Acceptance Criteria and Definition of Done | DONE |
 | TASK 06 | Establish Initial Project Scope and Constraints | NOT STARTED |
 
 **Deliverables:**
