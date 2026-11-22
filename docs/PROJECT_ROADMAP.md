@@ -55,8 +55,8 @@ A milestone is considered `DONE` when all its required tasks and deliverables ar
 
 | Task | Description | Status |
 |---|---|---|
-| TASK 07 | Identify System Components and Responsibilities | NOT STARTED |
-| TASK 08 | Design High-Level System Architecture | NOT STARTED |
+| TASK 07 | Identify System Components and Responsibilities | DONE |
+| TASK 08 | Design High-Level System Architecture | DONE |
 | TASK 09 | Design Database Architecture | NOT STARTED |
 | TASK 10 | Define AI and Agent Architecture | NOT STARTED |
 | TASK 11 | Define Integration and Workflow Architecture | NOT STARTED |
@@ -260,7 +260,7 @@ A milestone is considered `DONE` when all its required tasks and deliverables ar
 
 | Milestone | Name | Status |
 |---|---|---|
-| M01 | Requirements Engineering | IN PROGRESS |
+| M01 | Requirements Engineering | DONE |
 | M02 | System Architecture and Technology Selection | NOT STARTED |
 | M03 | Development Environment and Infrastructure | NOT STARTED |
 | M04 | Backend and Database Development | NOT STARTED |
